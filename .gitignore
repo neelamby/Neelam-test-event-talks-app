@@ -1,0 +1,21 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Gemini CLI configuration
+.gemini/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+tmp/
+*.tmp
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.swp
